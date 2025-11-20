@@ -1,14 +1,14 @@
 ### Hacktoberfest 2023 Update
-#### We are open for any kind of feature request and pull request [hacktoberfest 2023]
+#### We are open for any kind of feature request and pull request.
 Initially, this repository was created just to showcase the project that was completed in the first year of my undergraduate study. Eventually, this project started to gain the attention of the open-source community. Thanks to all the contributors to this project.
 
 As a part of an open-source community, I would like to invite contributions from all levels of contributors. Whether you are a beginner or have few years of experience we equally value your contributions.
 
 Simply create an issue and start to hit the code in your favourite IDE. Also don't forget to create a pull request.
 
-[How to run to this project.](https://github.com/kiranshahi/Employee-Management-System/blob/master/HOW_TO_RUN.md "Guidelines for running Employee Management System")
+[How to run to this project.](https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/HOW_TO_RUN.md "Guidelines for running Employee Management System")
 
-[How to contribute to this project.](https://github.com/kiranshahi/Employee-Management-System/blob/master/CONTRIBUTING.md "Contribution guidelines for Employee Management System")
+[How to contribute to this project.](https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/CONTRIBUTING.md "Contribution guidelines for Employee Management System")
 
 # Employee Management System
 
@@ -19,7 +19,7 @@ Simply create an issue and start to hit the code in your favourite IDE. Also don
 ---
 ### Do you want to contribute?
 
-[Here is the guidelines on how to contribute on this project.](https://github.com/kiranshahi/Employee-Management-System/blob/master/CONTRIBUTING.md "Contribution guidelines for Employee Management System")
+[Here is the guidelines on how to contribute on this project.](https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/CONTRIBUTING.md "Contribution guidelines for Employee Management System")
 
 ---
 
@@ -66,37 +66,37 @@ Some of the features of this system are:
 
 ![Home Screen of Employee Management System][homeScreen]
 
-[homeScreen]: https://github.com/kiranshahi/Employee-Management-System/blob/master/Screenshots/Home%20Screen.PNG "Home Screen of Employee Management System"
+[homeScreen]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/Home%20Screen.PNG "Home Screen of Employee Management System"
 
 
 ![Import CSV file on Employee Management System][importCSV]
 
-[importCSV]: https://github.com/kiranshahi/Employee-Management-System/blob/master/Screenshots/Import%20CSV.PNG "Import CSV file on Employee Management System"
+[importCSV]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/Import%20CSV.PNG "Import CSV file on Employee Management System"
 
 
 ![Employee Details on Employee Management System][employeeDetails]
 
-[employeeDetails]: https://github.com/kiranshahi/Employee-Management-System/blob/master/Screenshots/Employee%20Details.PNG "Employee Details on Employee Management System"
+[employeeDetails]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/Employee%20Details.PNG "Employee Details on Employee Management System"
 
 
 ![Add Employee Form of Employee Management System][addEmployee]
 
-[addEmployee]: https://github.com/kiranshahi/Employee-Management-System/blob/master/Screenshots/Add%20Employee.PNG "Add Employee Form of Employee Management System"
+[addEmployee]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/Add%20Employee.PNG "Add Employee Form of Employee Management System"
 
 
 ![Edit Employee Form of Employee Management System][editEmployee]
 
-[editEmployee]: https://github.com/kiranshahi/Employee-Management-System/blob/master/Screenshots/Edit%20Employee.PNG "Edit Employee Form of Employee Management System"
+[editEmployee]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/Edit%20Employee.PNG "Edit Employee Form of Employee Management System"
 
 
 ![Generate Pay Roll on Employee Management System][generatePayroll]
 
-[generatePayroll]: https://github.com/kiranshahi/Employee-Management-System/blob/master/Screenshots/Payroll.PNG "Generate Pay Roll on Employee Management System"
+[generatePayroll]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/Payroll.PNG "Generate Pay Roll on Employee Management System"
 
 
 ![Generate Pie-chart on Employee Management system][generatePiechart]
 
-[generatePiechart]: https://github.com/kiranshahi/Employee-Management-System/blob/master/Screenshots/report.PNG "Generate Pie-chart on Employee Management System"
+[generatePiechart]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/report.PNG "Generate Pie-chart on Employee Management System"
 
 ---
 ### Dependencies
